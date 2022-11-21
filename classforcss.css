@@ -1,0 +1,43 @@
+body{
+    background: blue;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-weight: 100px;
+}
+h2{
+    font-size: 50px;
+    font-weight: 100px;
+}
+button{
+    border: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:  black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+.continer{
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+#increment-btn{
+    background: brown;
+}
+#save-btn{
+    background: green;
+}
+#decrement-btn{
+    background: yellowgreen;
+}
+
+#save-el {
+    font-size: 40px;
+    font-weight: 100px;
+}
